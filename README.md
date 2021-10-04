@@ -1,2 +1,2 @@
-# iqsiki-da-noliki
-epic iqsiki da noliki based on pygame
+# იქსიკი და ნოლიკი
+(გადმოსაწერი ლინკი)[https://sauronn.netlify.app]
